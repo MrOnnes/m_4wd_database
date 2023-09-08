@@ -1,6 +1,7 @@
 {
   "dinamo": [
     {
+      "id": 1,
       "NamaDinamo": "Custom Motor",
       "RPM": 0,
       "Torque": 0,
@@ -9,6 +10,7 @@
       "img": "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/9/94380/94380_1.jpg"
     },
     {
+      "id": 2,
       "NamaDinamo": "FA-130 / Stock motor",
       "RPM": 13800,
       "Torque": 10.0,
@@ -17,6 +19,7 @@
       "img": "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/9/94380/94380_1.jpg"
     },
     {
+      "id": 3,
       "NamaDinamo": "Touch-Dash",
       "RPM": 15000,
       "Torque": 10.0,
@@ -25,6 +28,7 @@
       "img": "https://static.wikia.nocookie.net/mini-4wd/images/d/da/TouchDashMotor.jpg"
     },
     {
+      "id": 4,
       "NamaDinamo": "Torque-Tuned 2",
       "RPM": 14700,
       "Torque": 20.3,
@@ -33,6 +37,7 @@
       "img": "https://static.wikia.nocookie.net/mini-4wd/images/d/d0/TorqueTuned2Motor.jpg"
     },
     {
+      "id": 5,
       "NamaDinamo": "Atomic-Tuned 2",
       "RPM": 14900,
       "Torque": 18.3,
@@ -41,6 +46,7 @@
       "img": "https://static.wikia.nocookie.net/mini-4wd/images/f/fa/AtomicTuned2Motor.jpg"
     },
     {
+      "id": 6,
       "NamaDinamo": "Rev-Tuned 2",
       "RPM": 15200,
       "Torque": 15.2,
@@ -49,6 +55,7 @@
       "img": "https://static.wikia.nocookie.net/mini-4wd/images/f/f5/RevTuned2Motor.jpg"
     },
     {
+      "id": 7,
       "NamaDinamo": "Light Dash",
       "RPM": 17800,
       "Torque": 19.4,
@@ -57,6 +64,7 @@
       "img": "https://static.wikia.nocookie.net/mini-4wd/images/4/47/LightDashMotor.jpg"
     },
     {
+      "id": 8,
       "NamaDinamo": "Hyper Dash 2/3",
       "RPM": 21200,
       "Torque": 19.4,
@@ -65,6 +73,7 @@
       "img": "https://static.wikia.nocookie.net/mini-4wd/images/0/0c/HyperDash3Motor.jpg"
     },
     {
+      "id": 9,
       "NamaDinamo": "Mach Dash",
       "RPM": 23400,
       "Torque": 15.0,
@@ -73,6 +82,7 @@
       "img": "https://static.wikia.nocookie.net/mini-4wd/images/4/4d/MachDashMotor.jpg"
     },
     {
+      "id": 10,
       "NamaDinamo": "Power Dash",
       "RPM": 23600,
       "Torque": 20.4,
@@ -81,6 +91,7 @@
       "img": "https://static.wikia.nocookie.net/mini-4wd/images/c/c3/PowerDashMotor.jpg"
     },
     {
+      "id": 11,
       "NamaDinamo": "Sprint Dash",
       "RPM": 27200,
       "Torque": 19.4,
@@ -89,6 +100,7 @@
       "img": "https://static.wikia.nocookie.net/mini-4wd/images/d/d5/SprintDashMotor.jpg"
     },
     {
+      "id": 12,
       "NamaDinamo": "Ultra Dash",
       "RPM": 27500,
       "Torque": 19.5,
@@ -97,6 +109,7 @@
       "img": "https://static.wikia.nocookie.net/mini-4wd/images/4/4c/UltraDashMotor.jpg"
     },
     {
+      "id": 13,
       "NamaDinamo": "Plasma Dash",
       "RPM": 28000,
       "Torque": 25.0,
